@@ -4,7 +4,7 @@
 -------------------------------------------------
    File Name：     utilFunction.py
    Description :  tool function
-   Author :       JHao
+   Author :       Jerry
    date：          2016/11/25
 -------------------------------------------------
    Change Activity:

@@ -4,7 +4,7 @@
 -------------------------------------------------
    File Name：     SsdbClient.py
    Description :  封装SSDB操作
-   Author :       JHao
+   Author :       jerry
    date：          2016/12/2
 -------------------------------------------------
    Change Activity:
@@ -13,7 +13,6 @@
                    2017/09/27: 修改pop()方法 返回{proxy:value}字典
 -------------------------------------------------
 """
-__author__ = 'JHao'
 
 from Util import EnvUtil
 

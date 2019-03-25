@@ -3,14 +3,14 @@
 -------------------------------------------------
    File Name：     WebRequest
    Description :   Network Requests Class
-   Author :        J_hao
+   Author :        Jerry
    date：          2017/7/31
 -------------------------------------------------
    Change Activity:
                    2017/7/31:
 -------------------------------------------------
 """
-__author__ = 'J_hao'
+
 
 import requests
 import random

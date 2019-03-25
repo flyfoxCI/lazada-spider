@@ -3,7 +3,7 @@
 -------------------------------------------------
    File Name：    MongodbClient.py
    Description :  封装mongodb操作
-   Author :       JHao netAir
+   Author :       Jerry
    date：          2017/3/3
 -------------------------------------------------
    Change Activity:
